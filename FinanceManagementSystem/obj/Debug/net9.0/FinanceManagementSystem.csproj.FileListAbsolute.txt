@@ -1,0 +1,14 @@
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.exe
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.deps.json
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.runtimeconfig.json
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.dll
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.pdb
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.dll
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\FinanceManagementSystem\obj\Debug\net9.0\refint\FinanceManagementSystem.dll
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.pdb
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\FinanceManagementSystem\obj\Debug\net9.0\ref\FinanceManagementSystem.dll
