@@ -1,0 +1,15 @@
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.AssemblyInfoInputs.cache
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.AssemblyInfo.cs
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.csproj.CoreCompileInputs.cache
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.sourcelink.json
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.exe
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.deps.json
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.runtimeconfig.json
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.dll
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.pdb
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.dll
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\obj\Debug\net9.0\refint\WarehouseSystem.dll
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.pdb
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.genruntimeconfig.cache
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\WarehouseSystem\obj\Debug\net9.0\ref\WarehouseSystem.dll
