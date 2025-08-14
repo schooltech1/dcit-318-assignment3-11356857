@@ -1,0 +1,15 @@
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\bin\Debug\net9.0\SchoolSystem.exe
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\bin\Debug\net9.0\SchoolSystem.deps.json
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\bin\Debug\net9.0\SchoolSystem.runtimeconfig.json
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\bin\Debug\net9.0\SchoolSystem.dll
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\bin\Debug\net9.0\SchoolSystem.pdb
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\obj\Debug\net9.0\SchoolSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\obj\Debug\net9.0\SchoolSystem.AssemblyInfoInputs.cache
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\obj\Debug\net9.0\SchoolSystem.AssemblyInfo.cs
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\obj\Debug\net9.0\SchoolSystem.csproj.CoreCompileInputs.cache
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\obj\Debug\net9.0\SchoolSystem.sourcelink.json
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\obj\Debug\net9.0\SchoolSystem.dll
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\obj\Debug\net9.0\refint\SchoolSystem.dll
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\obj\Debug\net9.0\SchoolSystem.pdb
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\obj\Debug\net9.0\SchoolSystem.genruntimeconfig.cache
+C:\Users\my cmputer\Source\Repos\dcit-318-assignment3-11356857\SchoolSystem\obj\Debug\net9.0\ref\SchoolSystem.dll
